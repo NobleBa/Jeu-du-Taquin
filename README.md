@@ -10,7 +10,7 @@ Une fois le dossier téléchargé, allez dans le dossier ou se trouve le dossier
 
 Exéutez la commande ci-dessous :
 ```
-cd Taquin/
+cd Taquin_Solver_Astar/
 ```
 
 Et executez le programme grace a la commande suivante :
