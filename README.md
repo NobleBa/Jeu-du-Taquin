@@ -6,11 +6,11 @@ Ce programme a pour but de résoudre un puzzle généré aléatoirement selon le
 
 ## Déploiement
 
-Une fois le dossier téléchargé, allez dans le dossier ou se trouve le dossier.
+Une fois le dossier téléchargé, allez dans le dossier ou se trouve le dossier Taquin_Solver_Astar-main.
 
 Exéutez la commande ci-dessous :
 ```
-cd Taquin_Solver_Astar/
+cd Taquin_Solver_Astar-main/
 ```
 
 Et executez le programme grace a la commande suivante :
